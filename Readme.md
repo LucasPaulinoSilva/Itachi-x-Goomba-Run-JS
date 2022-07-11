@@ -7,7 +7,7 @@ Este jogo simples tem como objetivo o estudo de implementação de **HTML**, **C
 </br>
 
 <div align="center">
-<img src = "images/print1.png">
+<img src = "Images/print1.png">
 </div>
 
 Foram inseridos no jogo:
@@ -23,7 +23,7 @@ Foram inseridos no jogo:
 </br>
 
 <div align="center">
-<img src = "images/print2.png">
+<img src = "Images/print2.png">
 </div>
 
 <font color="pink">=> Interação entre os personagens;</font>
