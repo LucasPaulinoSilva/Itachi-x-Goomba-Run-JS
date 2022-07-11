@@ -16,9 +16,9 @@ Foram inseridos no jogo:
 
 <font color="orange">Quadro Laranja => Sistema de Score/Pontuação;</font>
 
-<font color="grey">Quadro Cinza => Sprite de nuvens com animação;</font>
+<font color="grey">Quadro Cinza => Sprites de corvo e nuvens com animação;</font>
 
-<font color="blue">Quadro Azul => Sprite de personagens com animação;</font>
+<font color="blue">Quadro Azul => Sprites de personagens com animação;</font>
 
 </br>
 
