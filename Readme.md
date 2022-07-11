@@ -12,13 +12,13 @@ Este jogo simples tem como objetivo o estudo de implementação de **HTML**, **C
 
 Foram inseridos no jogo:
 
-<font color="yellow">=> Display de aúdio com música tema do personagem;</font>
+<font color="yellow">Quadro Amarelo => Display de aúdio com música tema do personagem;</font>
 
-<font color="orange">=> Sistema de Score/Pontuação;</font>
+<font color="orange">Quadro Laranja => Sistema de Score/Pontuação;</font>
 
-<font color="grey">=> Sprite de nuvens com animação;</font>
+<font color="grey">Quadro Cinza => Sprite de nuvens com animação;</font>
 
-<font color="blue">=> Sprite de personagens com animação;</font>
+<font color="blue">Quadro Azul => Sprite de personagens com animação;</font>
 
 </br>
 
@@ -26,6 +26,6 @@ Foram inseridos no jogo:
 <img src = "Images/print2.png">
 </div>
 
-<font color="pink">=> Interação entre os personagens;</font>
+<font color="pink">Quadro Rosa => Interação entre os personagens;</font>
 
-<font color="green">=> Aviso de Game Over.</font>
+<font color="green">Quadro Verde => Aviso de Game Over.</font>
